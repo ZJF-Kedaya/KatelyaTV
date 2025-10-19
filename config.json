@@ -72,17 +72,11 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-
-    "gdlsp": {
-      "api": "https://www.gdlsp.com/api/json.php",
-      "name": "AV-香奶儿资源",
-      "detail": "https://www.gdlsp.com",
+    "lbapiby": {
+      "api": "http://lbapiby.com/api.php/provide/vod",
+      "name": "AV-AIvin",
+      "detail": "",
       "is_adult": true
-    },
-        "aiduanju": {
-      "api": "https://www.aiduanju.cc/",
-      "name": "爱短剧.cc",
-      "is_adult": false
     },
     "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
