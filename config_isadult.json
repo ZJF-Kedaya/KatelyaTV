@@ -13,6 +13,18 @@
       "detail": "https://heimuer.tv",
       "is_adult": false
     },
+      "91md": {
+      "api": "https://91md.me/api.php/provide/vod",
+      "name": "AV-91麻豆",
+      "detail": "https://91md.me",
+      "is_adult": true
+    },
+    "lbapiby": {
+      "api": "http://lbapiby.com/api.php/provide/vod",
+      "name": "AV-AIvin",
+      "detail": "",
+      "is_adult": true
+    },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源",
